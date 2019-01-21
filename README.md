@@ -1,1 +1,1 @@
-# JS2_Project
+# JS2_Project Реализация Корзины.
